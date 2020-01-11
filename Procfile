@@ -1,1 +1,1 @@
-web: gunicorn DjangoWhiteNoise.wsgi:app
+web:gunicorn DjangoWhiteNoise.wsgi:app
